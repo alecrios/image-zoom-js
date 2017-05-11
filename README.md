@@ -10,6 +10,19 @@ https://alecrios.github.io/image-zoom-js/
 
 &nbsp;
 
+## Features
+
+* Lightweight
+* No dependencies
+* Performant
+	* Animates only `transform` and `opacity`
+	* Utilizes CSS transitions
+* Customizable
+	* Very minimal CSS
+	* Easy to change backdrop color, animation speed, etc
+
+&nbsp;
+
 ## Development
 
 This project is still under development and not production-ready. It is written in ES2015, so it needs to be compiled with something like [Babel](https://babeljs.io/) for better browser support.
