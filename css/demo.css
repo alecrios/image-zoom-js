@@ -1,0 +1,23 @@
+.demo {
+	line-height: 1.5rem;
+}
+
+.title {
+	font-weight: 700;
+}
+
+.container {
+	padding: 3rem 0;
+}
+
+.container > .row {
+	padding: 0 1.5rem;
+}
+
+.container > .row:not(:last-child) {
+	margin-bottom: 1.5rem;
+}
+
+.container > .row > *:not(:last-child) {
+	margin-bottom: 1.5rem;
+}
