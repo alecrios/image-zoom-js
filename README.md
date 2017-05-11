@@ -1,4 +1,4 @@
-# Image Loupe JS
+# Image Zoom JS
 
 Description coming soon.
 
