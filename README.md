@@ -14,6 +14,8 @@ https://alecrios.github.io/image-zoom-js/
 
 This project is still under development and not production-ready. It is written in ES2015, so it needs to be compiled with something like [Babel](https://babeljs.io/) for better browser support.
 
+&nbsp;
+
 ## Usage
 
 1. Include `image-zoom.css`.
